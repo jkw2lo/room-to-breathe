@@ -10,7 +10,7 @@
       ]
     },
     {
-      "file": "plan.png",
+      "file": "plan.jpg",
       "scale": 2,
       "steps": [
         "eval:localStorage.setItem('rtb-v2', JSON.stringify({ levels: { studio: { stars: 3, layout: window.OPTIMAL.studio.layout } }, rush: {}, sandbox: {}, last: 0, intro: 1 }))",

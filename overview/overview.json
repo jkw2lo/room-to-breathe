@@ -19,7 +19,7 @@
       "screen": { "src": "score.png", "alt": "A design score of 97 out of 100 with three stars: fit 30 of 30, flow 30 of 30, harmony 38 of 40" } },
     { "title": "Real floor plans", "text": "Hand-drawn flats on a 25 cm grid, each with its own brief.",
       "details": ["Place pieces at any 15° angle", "Swap a piece for another style", "Notes say what's costing you points"],
-      "screen": { "src": "plan.png", "alt": "The Garden Studio furnished: a bed with nightstands, a sofa facing a rug, a desk by the window and a kitchenette" } },
+      "screen": { "src": "plan.jpg", "alt": "The Garden Studio furnished: a bed with nightstands, a sofa facing a rug, a desk by the window and a kitchenette" } },
     { "title": "Moving Day", "text": "The movers bring one piece at a time, on a timer.",
       "details": ["Too slow, and they dump it by the front door"] },
     { "title": "Sandbox", "text": "Design freely with the whole furniture library.",
