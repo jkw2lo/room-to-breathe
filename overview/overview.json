@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "name": "Room to Breathe",
+  "tagline": "A floor-plan puzzle",
+  "pitch": "Fit every piece of furniture into a flat, keep it walkable, and arrange it with good feng shui.",
+  "accent": "#3a7d5c",
+  "status": "Live",
+
+  "problem": "Fitting a flat is a puzzle: will it all fit, and still feel good?",
+  "stats": [
+    { "value": "16", "label": "floor plans, from a houseboat to a lighthouse" },
+    { "value": "70", "label": "pieces of furniture in the full library" },
+    { "value": "75 cm", "label": "walking path kept clear to every door" }
+  ],
+
+  "features": [
+    { "title": "Scored like a designer", "text": "Every layout is scored out of 100, against a hand-made designer's layout.",
+      "details": ["Fit: every piece placed", "Flow: room to reach doors, bed sides, sofas and appliances", "Harmony: feng shui and design sense, piece by piece"],
+      "screen": { "src": "score.png", "alt": "A design score of 97 out of 100 with three stars: fit 30 of 30, flow 30 of 30, harmony 38 of 40" } },
+    { "title": "Real floor plans", "text": "Hand-drawn flats on a 25 cm grid, each with its own brief.",
+      "details": ["Place pieces at any 15° angle", "Swap a piece for another style", "Notes say what's costing you points"],
+      "screen": { "src": "plan.png", "alt": "The Garden Studio furnished: a bed with nightstands, a sofa facing a rug, a desk by the window and a kitchenette" } },
+    { "title": "Moving Day", "text": "The movers bring one piece at a time, on a timer.",
+      "details": ["Too slow, and they dump it by the front door"] },
+    { "title": "Sandbox", "text": "Design freely with the whole furniture library.",
+      "details": ["Packs for music, art, gaming, pets, fitness and reading", "Three save slots for every plan"] }
+  ],
+
+  "screens": [
+    { "src": "desktop.png", "alt": "Room to Breathe: the Garden Studio laid out, with the furniture tray, the design score of 97 and the designer's notes", "caption": "Garden Studio, three stars" }
+  ],
+
+  "facts": {
+    "worksOn": "Desktop browsers",
+    "data": "Saved in your browser",
+    "builtWith": "Plain JS, drawn on canvas",
+    "started": "Sep 2026"
+  }
+}
